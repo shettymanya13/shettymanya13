@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">
-  Building intelligent things, one project at a time.
+  <span style="color:#C084FC;">Building intelligent things, one project at a time.</span>
 </h3>
 
 <p align="center">
@@ -26,7 +26,9 @@
 
 <!-- ==================== ABOUT ME ==================== -->
 
-<h2 align="center">About Me</h2>
+<h2 align="center">
+  <span style="color:#C084FC;">About Me</span>
+</h2>
 
 <p align="center">
   AI/ML engineering student passionate about building intelligent applications.
@@ -41,7 +43,9 @@
 
 <!-- ==================== TECH STACK ==================== -->
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">
+  <span style="color:#C084FC;">Tech Stack</span>
+</h2>
 
 <h3 align="center">Programming Languages</h3>
 
@@ -106,7 +110,9 @@
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">
+  <span style="color:#C084FC;">Featured Projects</span>
+</h2>
 
 <table>
 <tr>
@@ -125,6 +131,7 @@
 </p>
 
 </td>
+
 <td width="33%" valign="top">
 
 <h3 align="center">PaperMind</h3>
@@ -140,6 +147,7 @@
 </p>
 
 </td>
+
 <td width="33%" valign="top">
 
 <h3 align="center">HealIX</h3>
@@ -160,28 +168,11 @@
 
 ---
 
-<!-- ==================== GITHUB OVERVIEW ==================== -->
-
-<h2 align="center">GitHub Overview</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shettymanya13&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=E6EDF3"
-    height="165"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shettymanya13&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E6EDF3"
-    height="165"
-    alt="Most Used Languages"
-  />
-</p>
-
----
-
 <!-- ==================== FOOTER ==================== -->
 
-<h3 align="center">Thanks for visiting my GitHub!</h3>
+<h3 align="center">
+  <span style="color:#C084FC;">Thanks for visiting my GitHub!</span>
+</h3>
 
 <p align="center">
   <i>Keep learning. Keep building. Keep creating.</i>

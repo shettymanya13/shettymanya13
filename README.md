@@ -18,3 +18,29 @@ Hi! I'm **Manya Shetty**, an AIML engineering student passionate about building 
 - Learning, experimenting, and building projects
 
 ---
+## Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+</p>
+
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,postman" />
+</p>
